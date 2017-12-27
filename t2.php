@@ -5,5 +5,7 @@
   */
 
 echo 'ok';
-
+public ddv {
+	$soo = 0;
+}
 ?>
